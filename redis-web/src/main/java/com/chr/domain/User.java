@@ -2,9 +2,6 @@ package com.chr.domain;
 
 import java.io.Serializable;
 
-/**
- * @author Edwin Chen
- */
 public class User implements Serializable {
 
     private static final long serialVersionUID = 522889572773714584L;
